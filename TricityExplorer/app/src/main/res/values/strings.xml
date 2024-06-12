@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TricityExplorer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="powrot">Powrót</string>
+    <string name="przycisk_usun">Usuń</string>
+    <string name="title">Tri-City Explorer</string>
+    <string name="przycisk_dodaj">Dodaj</string>
+    <string name="zapisz">Zapisz</string>
+</resources>
